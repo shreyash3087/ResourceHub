@@ -89,7 +89,7 @@ Game development involves the creation of interactive entertainment software, en
 
 ### Programming Languages
 
-Learn the essential programming languages for game development:
+> Learn the essential programming languages for game development:
 
 <table width="100%">
     <tr>
@@ -116,7 +116,7 @@ Learn the essential programming languages for game development:
 
 ### Art and Design
 
-Develop your art and design skills for game development:
+> Develop your art and design skills for game development:
 
 <table width="100%">
     <tr>
@@ -144,7 +144,7 @@ Develop your art and design skills for game development:
 
 ### Audio
 
-Enhance your game with sound:
+> Enhance your game with sound:
 
 <table width="100%">
     <tr>
@@ -168,7 +168,7 @@ Enhance your game with sound:
 
 ### Communities and Forums
 
-Join these communities to connect with other game developers:
+> Join these communities to connect with other game developers:
 
 <table width="100%">
     <tr>
@@ -195,7 +195,7 @@ Join these communities to connect with other game developers:
 
 ### Books and Courses
 
-Expand your knowledge with these books and courses:
+> Expand your knowledge with these books and courses:
 
 <table width="100%">
     <tr>
@@ -223,7 +223,7 @@ Expand your knowledge with these books and courses:
 
 ### YouTube Channels
 
-Learn game development through video tutorials:
+> Learn game development through video tutorials:
 
 <table width="100%">
     <tr>
